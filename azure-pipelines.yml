@@ -4,6 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 # another comment
+# another comment 2
 
 trigger:
   - master
