@@ -6,6 +6,7 @@
 # another comment
 # another comment 2
 # another comment 3
+# 4
 
 trigger:
   - master
