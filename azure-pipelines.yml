@@ -6,7 +6,9 @@
 # another comment
 # another comment 2
 # another comment 3
-# 4
+
+# branch 2
+
 
 trigger:
   - master
@@ -24,4 +26,5 @@ steps:
     npm install
     npm run build
     npm test
-  displayName: 'npm install, build and test (master)'
+  displayName: 'npm install, build and test (branch2)'
+
